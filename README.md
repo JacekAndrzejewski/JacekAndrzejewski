@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
+I'm Jacek Andrzejewski, PHP developer looking for his place in the world.
+
+### Links
+- Codewars https://www.codewars.com/users/JacekAndrzejewski
 <!--
 **JacekAndrzejewski/JacekAndrzejewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
